@@ -1,4 +1,4 @@
-# 文本文件向量化
+# 文本文件向量化1
 # 实验文本向量化的速度
 
 from langchain.embeddings import HuggingFaceEmbeddings
